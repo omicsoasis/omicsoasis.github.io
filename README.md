@@ -13,13 +13,15 @@
 
 ## OASIS: Omics Analysis Search and Information System
 
-MMAP is a comprehensive mixed model program for analysis of pedigree and population data. It provides an optimized and flexible platform that incorporates a wide range of covariance structures such as additive, dominance, epistasis, maternal and imprinting using pedigree and/or genotype data and also allows users to define their own covariance structures. Likelihood calculations use multi-threaded optimized matrix libraries to handle multiple random effects. MMAP can import data from a variety of imputation programs to avoid data manipulation and IBS/IBD programs to build covariance structures.
+OASIS is an information system for analyzing, searching and visualizing associations between phenotypes, genotypes, and other types of omics data (such as transcriptomics, metabolomics, etc.).  It is designed to enable discovery by connecting to the thought processes of biological researchers in a way that allows them to search results from an initial GWAS (or other type of association study), ask follow up questions and get the answers in real-time.
 
-MMAP uses a fast low-memory method to calculate additive and dominant genetic covariance structures using SNP data, which can be quite challenging for large data sets. For polygenic SNP analysis MMAP can store SNP-covariance products to reduce the complexity subsequent analyses with the same subjects to linear regression, independent of phenotype or covariates.
+OASIS accomplishes this with a web-based search system and a variety of real-time analysis tools including conditional & multi-covariates analysis, LD calculations, alternative data transformations, and customized SKAT analysis.  On-demand visualizations are provided in the form of boxplots, histograms, LocusZoom & Haploview plots. The OASIS search reports contain a broad spectrum of annotation from Annovar and WGSA plus a variety of links to external resources such as gnomAD, GTEx, HaploReg, Roadmap, UCSC and NCBI.  Because OASIS has a web-based user interface, an understanding of programming or the UNIX operating system is not required.
+
+OASIS is powered by MMAP, a mixed model, genetic association software program written by Jeff O’Connell at the University of Maryland.  MMAP performs the real-time analysis options “behind the scenes”.  The OASIS user interface coordinates the use of MMAP’s unique options and algorithms to provide repeated, custom computations in a fraction of the time normally required. 
 
 <p><a id="installation" title="Installation" class="toc-item"></a></p>
 
 ### Installation
 
-MMAP is compiled with the Intel Math Kernel library for the Unix/Linux environment and uses BLAS and LAPACK libraries. To ensure compatibility only a static executable is currently available. After download, be sure to make the file executable. [Click here to download OASIS](https://github.com/omicsOASIS/OASIS-releases-issues-Q-and-A/releases/latest){:target="_blank"}.
+OASIS installs on a Unix/Linux operating system running the Apache webserver.  The package requires Perl, R and MySQL. Auxillary programs, Haploview and Locuszoom, are optional.  Install them using the instructions from their websites. [Click here to download OASIS](https://github.com/omicsOASIS/OASIS-releases-issues-Q-and-A/releases/latest){:target="_blank"}.
 
