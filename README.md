@@ -9,7 +9,7 @@
 
 # OASIS by Jim Perry
 
-[**HOME**](/) &nbsp; &nbsp; [**Latest Release**](https://github.com/omicsOASIS/OASIS-releases-issues-Q-and-A/releases/latest){:target="_blank"} &nbsp; &nbsp; [**Issues and Q&A**](https://github.com/omicsOASIS/OASIS-releases-issues-Q-and-A/issues){:target="_blank"} &nbsp; &nbsp; [**MMAP Cheat Sheet**](/CHEATSHEET.html)
+[**HOME**](/) &nbsp; &nbsp; [**Latest Release**](https://github.com/omicsOASIS/OASIS-releases-issues-Q-and-A/releases/latest){:target="_blank"} &nbsp; &nbsp; [**Issues and Q&A**](https://github.com/omicsOASIS/OASIS-releases-issues-Q-and-A/issues){:target="_blank"} &nbsp; &nbsp; [**OASIS Videos**](/videos.html)
 
 ## OASIS: Omics Analysis Search and Information System
 
@@ -25,3 +25,11 @@ OASIS is powered by MMAP, a mixed model, genetic association software program wr
 
 OASIS installs on a Unix/Linux operating system running the Apache webserver.  The package requires Perl, R and MySQL. Auxillary programs, Haploview and Locuszoom, are optional.  Install them using the instructions from their websites. [Click here to download OASIS](https://github.com/omicsOASIS/OASIS-releases-issues-Q-and-A/releases/latest){:target="_blank"}.
 
+---
+
+<p align="center">OASIS: Omics Analysis Search and Information System - Copyright © 2017</p>
+&nbsp;
+
+<!-- And now for the javascript... -->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="/assets/js_custom/application.js"></script>
