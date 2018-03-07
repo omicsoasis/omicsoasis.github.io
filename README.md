@@ -1,5 +1,3 @@
-# OASIS by Jim Perry
-
 <!-- This file provides the CONTENT for the OASIS website -->
 <!-- javascript links are at the bottom of this file to improve page loading -->
 
@@ -8,6 +6,8 @@
 </div>
 
 <p><a id="home" title="OASIS Introduction" class="toc-item"></a></p>
+
+<!--# OASIS by Jim Perry-->
 
 [**HOME**](/) &nbsp; &nbsp; [**Latest Release**](https://github.com/omicsOASIS/OASIS-releases-issues-Q-and-A/releases/latest){:target="_blank"} &nbsp; &nbsp; [**Issues and Q&A**](https://github.com/omicsOASIS/OASIS-releases-issues-Q-and-A/issues){:target="_blank"} &nbsp; &nbsp; [**OASIS Videos**](/videos.html)
 
