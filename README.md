@@ -1,8 +1,7 @@
 ---
 title: "omics OASIS by Jim Perry"
-description: "MMAP is a comprehensive mixed model program for analysis of pedigree and population data."
+description: "OASIS is an information system for analyzing, searching and visualizing omics associations."
 ---
-
 <!-- This file provides the CONTENT for the OASIS website -->
 <!-- javascript links are at the bottom of this file to improve page loading -->
 
