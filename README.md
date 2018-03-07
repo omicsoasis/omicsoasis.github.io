@@ -1,7 +1,3 @@
----
-title: "omics OASIS by Jim Perry"
-description: "OASIS is an information system for analyzing, searching and visualizing omics associations."
----
 <!-- This file provides the CONTENT for the OASIS website -->
 <!-- javascript links are at the bottom of this file to improve page loading -->
 
