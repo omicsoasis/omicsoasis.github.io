@@ -7,11 +7,11 @@
 
 <p><a id="home" title="OASIS Introduction" class="toc-item"></a></p>
 
-# OASIS by Jim Perry
+# omics OASIS by Jim Perry
 
 [**HOME**](/) &nbsp; &nbsp; [**Latest Release**](https://github.com/omicsOASIS/OASIS-releases-issues-Q-and-A/releases/latest){:target="_blank"} &nbsp; &nbsp; [**Issues and Q&A**](https://github.com/omicsOASIS/OASIS-releases-issues-Q-and-A/issues){:target="_blank"} &nbsp; &nbsp; [**OASIS Videos**](/videos.html)
 
-## OASIS: Omics Analysis Search and Information System
+## OASIS: Omics Analysis, Search and Information System
 
 OASIS is an information system for analyzing, searching and visualizing associations between phenotypes, genotypes, and other types of omics data (such as transcriptomics, metabolomics, etc.).  It is designed to enable discovery by connecting to the thought processes of biological researchers in a way that allows them to search results from an initial GWAS (or other type of association study), ask follow up questions and get the answers in real-time.
 
