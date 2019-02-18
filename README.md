@@ -9,7 +9,7 @@
 
 <!--# OASIS by Jim Perry-->
 
-[**HOME**](/) &nbsp; &nbsp; [**Latest Release**](https://github.com/omicsoasis/OASIS-releases-issues-Q-and-A/releases/latest){:target="_blank"} &nbsp; &nbsp; [**Issues and Q&A**](https://github.com/omicsoasis/OASIS-releases-issues-Q-and-A/issues){:target="_blank"} &nbsp; &nbsp; [**OASIS Videos**](https://edn.som.umaryland.edu/OASIS/videos/){:target="_blank'"}
+[**HOME**](/) &nbsp; &nbsp; [**Latest Release**](https://edn.som.umaryland.edu/OASIS/){:target="_blank'"} &nbsp; &nbsp; [**Issues and Q&A**](https://github.com/omicsoasis/OASIS-releases-issues-Q-and-A/issues){:target="_blank"} &nbsp; &nbsp; [**OASIS Videos**](https://edn.som.umaryland.edu/OASIS/videos/){:target="_blank'"}
 
 ## OASIS: Omics Analysis, Search and Information System
 
