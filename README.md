@@ -27,7 +27,7 @@ OASIS installs on a Unix/Linux operating system running the Apache webserver.  T
 
 ---
 
-<p align="center">OASIS: Omics Analysis Search and Information System - Copyright © 2017</p>
+<p align="center">OASIS: Omics Analysis Search and Information System - Copyright © 2018</p>
 &nbsp;
 
 <!-- And now for the javascript... -->
