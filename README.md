@@ -23,7 +23,7 @@ OASIS is powered by MMAP, a mixed model, genetic association software program wr
 
 ### Installation
 
-OASIS installs on a Unix/Linux operating system running the Apache webserver.  The package requires HTML5, CSS3, JavaScript, Perl, R and MySQL. Auxillary programs, Haploview and Locuszoom, are optional. Please contact the <a href="mailto:jperry@som.umaryland.edu">OASIS Development Team</a> at the University of Maryland, Baltimore for more information. <!--Install them using the instructions from their websites. [Click here to download OASIS](https://github.com/omicsoasis/OASIS-releases-issues-Q-and-A/releases/latest){:target="_blank"}. -->
+OASIS installs on a Unix/Linux operating system running the Apache webserver.  The package requires HTML5, CSS3, JavaScript, Perl, R and MySQL. Auxillary programs, Haploview and Locuszoom, are optional. We are currently seeking funding to produce a production version that includes comprehensive web security. When upgraded, we anticipate that OASIS will be available free of charge for non-commercial use. Please contact the <a href="mailto:jperry@som.umaryland.edu">OASIS Development Team</a> at the University of Maryland, Baltimore for more information. <!--Install them using the instructions from their websites. [Click here to download OASIS](https://github.com/omicsoasis/OASIS-releases-issues-Q-and-A/releases/latest){:target="_blank"}. -->
 
 ---
 
