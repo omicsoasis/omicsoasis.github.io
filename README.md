@@ -22,7 +22,7 @@ OASIS accomplishes this with a web-based search system and a variety of real-tim
 
 ### OASIS Resources
 
-Please click the links above for information on OASIS publications, demonstrations, contacts and video library.
+Please click the links above for information on OASIS publications, demonstrations, contacts and our video library.
 
 
 ---
