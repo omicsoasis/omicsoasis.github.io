@@ -29,7 +29,7 @@ Please click the links above for information on OASIS publications, demonstratio
 
 ---
 
-<p align="center">OASIS: Omics Analysis Search and Information System - Copyright © 2018</p>
+<p align="center">OASIS: Omics Analysis, Search and Information System - Copyright © 2018</p>
 &nbsp;
 
 <!-- And now for the javascript... -->
