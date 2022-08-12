@@ -17,7 +17,7 @@ OASIS is an information system for analyzing, searching and visualizing associat
 
 OASIS accomplishes this with a web-based search system and a variety of real-time analysis tools including real-time linkage disequilibrium (LD) calculations and co-localization analysis.  On-demand visualizations are provided in the form of boxplots, histograms, LocusZoom & Haploview plots. The OASIS search reports contain a broad spectrum of annotation from Annovar and WGSA plus a variety of links to external resources such as gnomAD, GTEx, HaploReg, UCSC Genome Browser and NCBI resources.
 
-Because OASIS has a web-based user interface, an understanding of programming or the UNIX operating system is not required.
+Because OASIS has a web-based user interface, an understanding of programming and operating systems is not required.
 
 
 <p><a id="installation" title="Installation" class="toc-item"></a></p>
