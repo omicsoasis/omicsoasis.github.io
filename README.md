@@ -15,7 +15,9 @@
 
 OASIS is an information system for analyzing, searching and visualizing associations between phenotypes, genotypes, and other types of omics data (such as transcriptomics, metabolomics, etc.).  It is designed to enable discovery by connecting to the thought processes of biological researchers in a way that allows them to search results from an initial GWAS (or other type of association study), ask follow up questions and get the answers in real-time.
 
-OASIS accomplishes this with a web-based search system and a variety of real-time analysis tools including LD calculations and co-localization analysis.  On-demand visualizations are provided in the form of boxplots, histograms, LocusZoom & Haploview plots. The OASIS search reports contain a broad spectrum of annotation from Annovar and WGSA plus a variety of links to external resources such as gnomAD, GTEx, HaploReg, Roadmap, UCSC and NCBI.  Because OASIS has a web-based user interface, an understanding of programming or the UNIX operating system is not required.
+OASIS accomplishes this with a web-based search system and a variety of real-time analysis tools including LD calculations and co-localization analysis.  On-demand visualizations are provided in the form of boxplots, histograms, LocusZoom & Haploview plots. The OASIS search reports contain a broad spectrum of annotation from Annovar and WGSA plus a variety of links to external resources such as gnomAD, GTEx, HaploReg, Roadmap, UCSC and NCBI.
+
+Because OASIS has a web-based user interface, an understanding of programming or the UNIX operating system is not required.
 
 
 <p><a id="installation" title="Installation" class="toc-item"></a></p>
