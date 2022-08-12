@@ -9,7 +9,7 @@
 
 <!--# OASIS by Jim Perry-->
 
-[**HOME**](/) &nbsp; &nbsp; [**Resources and Contacts**](https://edn.som.umaryland.edu/OASIS/){:target="_blank'"} &nbsp; &nbsp; [**OASIS Videos**](https://edn.som.umaryland.edu/OASIS/videos/){:target="_blank'"}
+[**HOME**](/) &nbsp; &nbsp; [**Publications, Resources and Contacts**](https://edn.som.umaryland.edu/OASIS/){:target="_self'"} &nbsp; &nbsp; [**OASIS Videos**](https://edn.som.umaryland.edu/OASIS/videos/){:target="_blank'"}
 
 ## OASIS: Omics Analysis, Search and Information System
 
